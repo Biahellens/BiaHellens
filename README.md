@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-## Ooi pessoas 
-Sou apaixonada por desenvolver aplicações web e mobiles. 
-E adotei como hobby fazer aplicações para aprimoração de conhecimento.
+## Hello people
+I am passionate about developing web and mobile applications.
+And I took it as a hobby to make applications to improve knowledge.
 
-</br> :blue_book: Atualmente eu sou estudante de Desenvolvimento de Sistemas e ando fazendo alguns cursos direcionados para aplicações web.
-</br> :blush: Posso te ajudar com html, css e javascript.
-</br> :woman: Sobre mim: Sou apaixonadas por livros, jogos, e vários seriados da netflix, além de gostar muito de desenhar.
-</br> :speech_balloon: Entre em contato comigo: https://www.linkedin.com/in/biancahellens
+</br> :blue_book: I am currently a Systems Development student and have been taking some courses aimed at web applications.
+</br> :woman: About me: I am passionate about books, games, and several netflix series, as well as very fond of drawing.
+</br> :speech_balloon: Please contact me: https://www.linkedin.com/in/biancahellens
 
